@@ -76,11 +76,8 @@ const AWARD_PLAYERS = [
   // England
   { name: 'Jude Bellingham', country: 'England' },
   { name: 'Harry Kane', country: 'England' },
-  { name: 'Phil Foden', country: 'England' },
   { name: 'Bukayo Saka', country: 'England' },
-  { name: 'Cole Palmer', country: 'England' },
   { name: 'Declan Rice', country: 'England' },
-  { name: 'Trent Alexander-Arnold', country: 'England' },
   { name: 'John Stones', country: 'England' },
   { name: 'Anthony Gordon', country: 'England' },
   { name: 'Kobbie Mainoo', country: 'England' },
@@ -104,8 +101,10 @@ const AWARD_PLAYERS = [
   { name: 'João Pedro', country: 'Brazil' },
   { name: 'Savinho', country: 'Brazil' },
   { name: 'André', country: 'Brazil' },
+  { name: 'Estevão', country: 'Brazil' },
   { name: 'Murillo', country: 'Brazil' },
   { name: 'Beraldo', country: 'Brazil' },
+  { name: 'Gabriel Jesus', country: 'Brazil' },
 
   // Spain
   { name: 'Lamine Yamal', country: 'Spain' },
@@ -114,15 +113,18 @@ const AWARD_PLAYERS = [
   { name: 'Nico Williams', country: 'Spain' },
   { name: 'Dani Olmo', country: 'Spain' },
   { name: 'Pau Cubarsí', country: 'Spain' },
-  { name: 'Dani Carvajal', country: 'Spain' },
-  { name: 'Álvaro Morata', country: 'Spain' },
+  { name: 'Ferran Torres', country: 'Spain' },
   { name: 'Gavi', country: 'Spain' },
   { name: 'Mikel Merino', country: 'Spain' },
   { name: 'Aleix García', country: 'Spain' },
-  { name: 'Fermín López', country: 'Spain' },
-  { name: 'Dean Huijsen', country: 'Spain' },
   { name: 'Álex Baena', country: 'Spain' },
   { name: 'Unai Simón', country: 'Spain' },
+  { name: 'Mikel Oyarzabal', country: 'Spain' },
+  { name: 'Marc Cucurella', country: 'Spain' },
+  { name: 'Pedro Porro', country: 'Spain' },
+  { name: 'Fabián Ruiz', country: 'Spain' },
+  { name: 'David Raya', country: 'Spain' },
+  { name: 'Juan Garcia', country: 'Spain' },
 
   // Argentina
   { name: 'Lionel Messi', country: 'Argentina' },
@@ -271,6 +273,20 @@ const AWARD_PLAYERS = [
 
   // Australia
   { name: 'Harry Souttar', country: 'Australia' },
+
+  // Czech Republic 
+  { name: 'Patrik Schick', country: 'Czech Republic' },
+  { name: 'Tomáš Souček', country: 'Czech Republic' },
+
+  // Argelia
+  { name: 'Rayan Aït-Nouri', country: 'Algeria' },
+  { name: 'Amine Gouiri', country: 'Algeria' },   
+
+  // Bosnia
+  { name: 'Edin Džeko', country: 'Bosnia & Herzegovina' },
+   
+  // Cape Verde
+  { name: 'Ryan Mendes', country: 'Cape Verde' },
 
   // Iran
   { name: 'Mehdi Taremi', country: 'Iran' }
