@@ -124,7 +124,7 @@ const AWARD_PLAYERS = [
   { name: 'Pedro Porro', country: 'Spain' },
   { name: 'Fabián Ruiz', country: 'Spain' },
   { name: 'David Raya', country: 'Spain' },
-  { name: 'Juan Garcia', country: 'Spain' },
+  { name: 'Joan Garcia', country: 'Spain' },
 
   // Argentina
   { name: 'Lionel Messi', country: 'Argentina' },
